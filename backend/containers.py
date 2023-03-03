@@ -1,5 +1,3 @@
-import asyncio
-
 from dependency_injector import containers, providers
 
 from backend.config import get_settings

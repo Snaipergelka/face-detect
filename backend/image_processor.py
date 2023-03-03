@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import s3fs
 
 from backend.schemas import ColorType
 
