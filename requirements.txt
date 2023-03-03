@@ -1,0 +1,28 @@
+# api
+fastapi[all]~=0.92.0
+uvicorn~=0.20.0
+starlette~=0.25.0
+pydantic~=1.10.5
+dependency-injector
+aiohttp~=3.8.4
+mock
+configargparse
+python-multipart
+
+# s3
+s3fs~=2023.1.0
+
+# database
+alembic
+SQLalchemy~=2.0.4
+SQLAlchemy-Utils
+psycopg2
+asyncpg
+greenlet
+
+# image processing
+opencv-python~=4.7.0.72
+numpy~=1.24.2
+
+# tests
+pytest-asyncio
